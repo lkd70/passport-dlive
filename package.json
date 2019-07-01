@@ -1,0 +1,32 @@
+{
+  "name": "passport-dlive",
+  "version": "1.0.0",
+  "description": "Dlive authentication strategy for Passport.",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lkd70/passport-dlive.git"
+  },
+  "keywords": [
+    "passport",
+    "dlive",
+    "auth",
+    "authn",
+    "authentication",
+    "identity",
+    "lkd70"
+  ],
+  "author": {
+    "name": "Luke Dornan",
+    "email": "lkd70@lkd70.io",
+    "url": "https://github.com/lkd70"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lkd70/passport-dlive/issues"
+  },
+  "homepage": "https://github.com/lkd70/passport-dlive#readme"
+}
