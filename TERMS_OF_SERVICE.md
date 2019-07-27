@@ -1,6 +1,6 @@
 # Terms of Service ("Terms")
 
-Last updated: July 01, 2019
+Last updated: June 01, 2019
 
 Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the dlive.lkd70.io website (the "Service") operated by passport-dlive ("us", "we", or "our").
 
