@@ -2,10 +2,7 @@
   "name": "passport-dlive",
   "version": "1.0.0",
   "description": "Dlive authentication strategy for Passport.",
-  "main": "./lib",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "./lib/index",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lkd70/passport-dlive.git"
@@ -28,5 +25,12 @@
   "bugs": {
     "url": "https://github.com/lkd70/passport-dlive/issues"
   },
-  "homepage": "https://github.com/lkd70/passport-dlive#readme"
+  "homepage": "https://github.com/lkd70/passport-dlive#readme",
+  "dependencies": {
+    "oauth": "^0.9.15",
+    "passport-strategy": "^1.0.0",
+    "request": "^2.88.0",
+    "url": "^0.11.0",
+    "util": "^0.12.1"
+  }
 }
